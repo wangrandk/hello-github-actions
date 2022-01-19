@@ -8,9 +8,8 @@ inputs:
     required: true
     default: "World"
     
-inputs:
   ITEM_X:
-    description: "Who to greet"
+    description: "Who loves me"
     required: true
     default: "Yanusi"
 
