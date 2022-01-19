@@ -7,6 +7,10 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
+  ITEM:
+    description: "Who to greet"
+    required: true
+    default: "Yanusi"
 
 runs:
   using: "docker"
