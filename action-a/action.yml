@@ -7,7 +7,9 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
-  ITEM:
+    
+inputs:
+  ITEM_X:
     description: "Who to greet"
     required: true
     default: "Yanusi"
